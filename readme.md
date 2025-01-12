@@ -1,0 +1,2 @@
+# redirect for disc-golf-romagna pitch
+The first version of the pitch was shared using this link https://gaddoz.github.io/disc-golf-romagna, now the repository moved to disc-golf-romagna.github.io/pitch and so here we keep a redirect.
